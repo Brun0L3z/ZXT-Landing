@@ -66,7 +66,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                                 </li>
                                                 <li><Link href="/about">About Us</Link></li>
                                                 <li className="menu-item-has-children"><Link href="#">Pages</Link>
-                                                    <ul className="sub-menu">
+                                                   <!--  <ul className="sub-menu">
                                                         <li><Link href="/work">How It Work</Link></li>
                                                         <li><Link href="/faq">Faq Page</Link></li>
                                                         <li><Link href="/help">Help Center</Link></li>
@@ -74,7 +74,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                                         <li><Link href="/job-details">Job Details</Link></li>
                                                         <li><Link href="/login">Login Page</Link></li>
                                                         <li><Link href="/404">404 Error Page</Link></li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </li>
                                                 <li className="menu-item-has-children"><Link href="#">News</Link>
                                                     <ul className="sub-menu">
