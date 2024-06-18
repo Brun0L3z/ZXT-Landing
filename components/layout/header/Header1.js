@@ -21,7 +21,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                                 <li className="active menu-item-has-children tg-mega-menu-has-children"><Link href="#">Home</Link>
                                                     <div className="tg-mega-menu-wrap black-bg">
                                                         <div className="row row-cols-1 row-cols-lg-4 row-cols-xl-4">
-                                                            
+
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
