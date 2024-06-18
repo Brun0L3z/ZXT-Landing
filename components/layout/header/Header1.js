@@ -21,45 +21,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                                 <li className="active menu-item-has-children tg-mega-menu-has-children"><Link href="#">Home</Link>
                                                     <div className="tg-mega-menu-wrap black-bg">
                                                         <div className="row row-cols-1 row-cols-lg-4 row-cols-xl-4">
-                                                            <div className="col">
-                                                                <div className="mega-menu-item active">
-                                                                    <div className="mega-menu-thumb">
-                                                                        <Link href="/"><img src="/assets/img/images/home_img01.jpg" alt="" /></Link>
-                                                                    </div>
-                                                                    <div className="mega-menu-content">
-                                                                        <h4 className="title"><Link href="/">01: Ai Content Writer</Link></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div className="col">
-                                                                <div className="mega-menu-item">
-                                                                    <div className="mega-menu-thumb">
-                                                                        <Link href="/index-2"><img src="/assets/img/images/home_img02.jpg" alt="" /></Link>
-                                                                    </div>
-                                                                    <div className="mega-menu-content">
-                                                                        <h4 className="title"><Link href="/index-2">02: Text to Video Ai</Link></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div className="col">
-                                                                <div className="mega-menu-item">
-                                                                    <div className="mega-menu-thumb">
-                                                                        <Link href="/index-3"><img src="/assets/img/images/home_img03.jpg" alt="" /></Link>
-                                                                    </div>
-                                                                    <div className="mega-menu-content">
-                                                                        <h4 className="title"><Link href="/index-3">03:Text to Speech Ai</Link></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div className="col">
-                                                                <div className="mega-menu-item">
-                                                                    <div className="mega-menu-thumb">
-                                                                        <img src="/assets/img/images/coming_soon.jpg" alt="" />
-                                                                    </div>
-                                                                    <div className="mega-menu-content">
-                                                                        <h4 className="title">04: Coming Soon</h4>
-                                                                    </div>
-                                                                </div>
+                                                            
                                                             </div>
                                                         </div>
                                                     </div>
